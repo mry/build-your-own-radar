@@ -64,3 +64,7 @@ Make sure you have nodejs installed.
      $ docker run -p 8080:8080 -v $PWD:/app -w /app -it node:7.3.0 /bin/sh -c 'npm install && npm run dev'
 
 After building it will start on localhost:8080
+
+### Production
+- `webpack --production``
+- docker-compose up --force-recreate -d

@@ -1,0 +1,7 @@
+version: "2"
+services:
+  techradar:
+    container_name: tech-radar
+    image: nginx-tech-radar
+    ports:
+      - 80:80
