@@ -1,0 +1,233 @@
+[
+  {
+    "name": "BDD",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Behavior driven design is the best approach so far."
+  },
+  {
+    "name": "Peer Programming",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "The right peer for the right problem."
+  },
+  {
+    "name": "Reveal.js",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "While reveal.js is a presentation framework, it is my perfect match for writing and presenting. Just works for me."
+  },
+  {
+    "name": "Kanban",
+    "ring": "trial",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Use Kanban for your daily work."
+  },
+  {
+    "name": "Scrum",
+    "ring": "hold",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "The problem isn't Scrum, the problem is that companies don't providing the right environment for scrum. Do yourself a favor and always clarify the objectives."
+  },
+  {
+    "name": "Code Review",
+    "ring": "hold",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Divide and conquer, while you may do code reviews and pull request, the time feels wasted."
+  },
+  {
+    "name": "Kibana",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Kibana is the right tool for Elasticsearch and Monitoring."
+  },
+  {
+    "name": "",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "MariaDB",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "The better part of MySQL and our preferred db now for Wordpress and Mediawiki."
+  },
+  {
+    "name": "Lucidchart",
+    "ring": "hold",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Apache Solr",
+    "ring": "hold",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Elasticsearch wins."
+  },
+  {
+    "name": "ELK",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "Elasticsearch, Logstash and Kibana doesn't seem to get less"
+  },
+  {
+    "name": "WordPress",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "Simple and quick publishing of articles."
+  },
+  {
+    "name": "Github",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "Github is hosting git right."
+  },
+  {
+    "name": "IntelliJ",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "You need to code more!"
+  },
+  {
+    "name": "Apache Maven",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "AWS",
+    "ring": "trial",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "Cloud Computing"
+  },
+  {
+    "name": "Checkvist",
+    "ring": "trial",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "Todo's done right."
+  },
+  {
+    "name": "OSGi",
+    "ring": "trial",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "Do more with Apache Felix or at least review past works"
+  },
+  {
+    "name": "Gradle",
+    "ring": "assess",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "Gradle is easier to read and manage."
+  },
+  {
+    "name": "",
+    "ring": "hold",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Virtual Machines",
+    "ring": "hold",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "Since Docker is in the game don't use virtual machines as deployment or isolation unit. They are still eligible for POCs."
+  },
+  {
+    "name": "RiskShield",
+    "ring": "hold",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "While the software itself is interesting in the architecture key points, you aren't a fraud prevention employee. Only because you understand it, doesn't mean you must do it."
+  },
+  {
+    "name": "",
+    "ring": "adopt",
+    "quadrant": "languages&frameworks",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Sonar",
+    "ring": "adopt",
+    "quadrant": "languages&frameworks",
+    "isNew": "FALSE",
+    "description": "If you code Sonar is a must."
+  },
+  {
+    "name": "Shell",
+    "ring": "adopt",
+    "quadrant": "languages&frameworks",
+    "isNew": "FALSE",
+    "description": "Bashing is easy."
+  },
+  {
+    "name": "Python",
+    "ring": "trial",
+    "quadrant": "languages&frameworks",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Scala",
+    "ring": "trial",
+    "quadrant": "languages&frameworks",
+    "isNew": "FALSE",
+    "description": "This year is a must."
+  },
+  {
+    "name": "Akka",
+    "ring": "assess",
+    "quadrant": "languages&frameworks",
+    "isNew": "FALSE",
+    "description": "Usuable with Java or Scala, Akka is concurrency done right."
+  },
+  {
+    "name": "vert.x",
+    "ring": "assess",
+    "quadrant": "languages&frameworks",
+    "isNew": "TRUE",
+    "description": ""
+  },
+  {
+    "name": "Ruby",
+    "ring": "assess",
+    "quadrant": "languages&frameworks",
+    "isNew": "TRUE",
+    "description": "Might be pretty."
+  },
+  {
+    "name": "Cobol",
+    "ring": "hold",
+    "quadrant": "languages&frameworks",
+    "isNew": "FALSE",
+    "description": "Do yourself a favor, and stay mentally healthy. You may earn a bunch of money, but for what price?"
+  },
+  {
+    "name": "SAP",
+    "ring": "hold",
+    "quadrant": "languages&frameworks",
+    "isNew": "FALSE",
+    "description": "Never do SAP again."
+  }
+]

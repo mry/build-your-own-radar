@@ -5,6 +5,11 @@ require('./images/tw-logo.png');
 require('./images/favicon.ico');
 require('./images/radar_legend.png');
 
-const GoogleSheetInput = require('./util/factory');
+// Added local storage and commented out Google Sheet as below
 
-GoogleSheetInput().build();
+//const GoogleSheetInput = require('./util/factory');
+
+//GoogleSheetInput().build();
+
+const JsonRadar = require('./util/jsonFactory');
+JsonRadar().build(require('./offline/template.json'));
